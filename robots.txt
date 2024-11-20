@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://bukajsfswsamsulah.github.io/bukajsfswsamsulah_github_io_zp528_1.txt
+Sitemap: https://bukajsfswsamsulah.github.io/bukajsfswsamsulah_github_io_zp528_15.txt
+Sitemap: https://bukajsfswsamsulah.github.io/bukajsfswsamsulah_github_io_zp528_20.txt
+Sitemap: https://bukajsfswsamsulah.github.io/bukajsfswsamsulah_github_io_zp528_26.txt
+Sitemap: https://bukajsfswsamsulah.github.io/bukajsfswsamsulah_github_io_zp528_6.txt
